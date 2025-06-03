@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Thamill Indian
 
 - 🔭 Here's my [portfolio](https://thamillworks.neocities.org/Thamill_indian_portfolio/)                                                 
-- 🌱 I’m currently B.Tech CSE
+- 🌱 I’m currently in B.Tech CSE
 - 👯 I’m looking to collaborate on Robotics/AI
 - 💬 Ask me about Tech
 - 📫 How to reach me :
