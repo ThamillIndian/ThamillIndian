@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ThamillIndian&style=for-the-badge" alt="profile views"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AI%2FML-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Chennai-0A66C2?style=for-the-badge" />
 </p>
@@ -20,7 +20,7 @@
 ### 🚀 Snapshot
 - I build reliable, performant web apps (React/Next.js + Django/Node) and ship data-informed features with clean APIs.
 - Hands-on with ML workflows in Python and analytics dashboards. Exploring quantum & robotics on weekends.
-- Currently open to forward-deployed / platform-engineering style roles where code meets customer impact.
+- Open to forward-deployed / platform-engineering roles where code meets customer impact.
 
 ---
 
@@ -53,39 +53,37 @@
 > Swap in your live repos and short outcomes.
 
 - **Tamil Transcriptor (T-T-App)** — Speech-to-text + translation for Tamil audio (Python + TS). Analytics pipeline & dashboards.  
-  `Python · FastAPI · TS · Charts`
-  - Repo: https://github.com/YOUR_USERNAME/T-T-App
+  `Python · FastAPI · TS · Charts`  
+  - Repo: https://github.com/ThamillIndian/T-T-App
 
 - **ATB Tracker** — Team time tracking + role dashboards (Django REST + Next.js/TS).  
-  `Django REST · Next.js · Postgres`
-  - Repo: https://github.com/YOUR_USERNAME/atb-tracker
+  `Django REST · Next.js · Postgres`  
+  - Repo: https://github.com/ThamillIndian/atb-tracker
 
 - **Quantum vs Traditional NLP** — Qiskit/PennyLane vs TF-IDF baselines for language tasks.  
-  `PennyLane · Qiskit · scikit-learn`
-  - Repo: https://github.com/YOUR_USERNAME/quantum-nlp-comparison
+  `PennyLane · Qiskit · scikit-learn`  
+  - Repo: https://github.com/ThamillIndian/quantum-nlp-comparison
 
 ---
 
 ### 📈 Operating Metrics (auto-updating)
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=ThamillIndian&theme=dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThamillIndian&show_icons=true&theme=transparent&hide_border=true" height="170" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamillIndian&layout=compact&theme=transparent&hide_border=true" height="170" />
 </p>
 
 ---
 
 ### ⚙️ Recent Activity (animated)
-<!-- GitHub Activity Graph -->
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThamillIndian&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
-<!-- Snake contribution animation (needs a small workflow; see instructions below) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="https://raw.githubusercontent.com/ThamillIndian/ThamillIndian/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
 
 ---
