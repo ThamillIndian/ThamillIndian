@@ -49,22 +49,6 @@
 
 ---
 
-### 🔭 Featured Projects
-> Swap in your live repos and short outcomes.
-
-- **Tamil Transcriptor (T-T-App)** — Speech-to-text + translation for Tamil audio (Python + TS). Analytics pipeline & dashboards.  
-  `Python · FastAPI · TS · Charts`  
-  - Repo: https://github.com/ThamillIndian/T-T-App
-
-- **ATB Tracker** — Team time tracking + role dashboards (Django REST + Next.js/TS).  
-  `Django REST · Next.js · Postgres`  
-  - Repo: https://github.com/ThamillIndian/atb-tracker
-
-- **Quantum vs Traditional NLP** — Qiskit/PennyLane vs TF-IDF baselines for language tasks.  
-  `PennyLane · Qiskit · scikit-learn`  
-  - Repo: https://github.com/ThamillIndian/quantum-nlp-comparison
-
----
 
 ### 📈 Operating Metrics (auto-updating)
 <p>
