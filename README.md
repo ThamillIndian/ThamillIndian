@@ -50,16 +50,6 @@
 ---
 
 
-### 📈 Operating Metrics (auto-updating)
-<p>
-  <img src="https://streak-stats.demolab.com?user=ThamillIndian&theme=dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ThamillIndian&show_icons=true&theme=transparent&hide_border=true" height="170" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamillIndian&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
-
----
 
 ### ⚙️ Recent Activity (animated)
 <p>
