@@ -64,7 +64,9 @@
 
 ### 🎓 Certifications & Highlights
 - Programming & Data Science — IIT Madras  
-- DevOps Fundamentals — IBM  
+- DevOps Fundamentals — IBM
+- Devops, Agile, Design Thinking - IBM
+• Java Full-Stack - Six Phase
 - Networking Basics — Cisco  
 - Quantum ML exposure — PennyLane/Qiskit
 
