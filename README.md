@@ -23,7 +23,7 @@
 
 ### 🚀 Snapshot
 - Full Stack AI Engineer building production **GenAI systems** — RAG pipelines, multi-agent agentic workflows (LangGraph, CrewAI), embeddings & vector retrieval, tool-calling, and hallucination guardrails.
-- Currently **Full Stack Developer Intern @ Lush Transnational** — shipping agentic video automation, RAG document assistants, and guardrail systems in production.
+- **Full Stack Developer Intern @ Lush Transnational** — shipping agentic video automation, RAG document assistants, and guardrail systems in production.
 - National hackathon winner (solo) — Cine AI HackFest, ₹1,00,000 prize, full-stack multi-agent film production system built end-to-end under pressure.
 - Ship React/Next.js frontends wired to FastAPI/Node backends, containerized with Docker, deployed on GCP/AWS with CI/CD and observability.
 
